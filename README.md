@@ -2,15 +2,8 @@
 
 7TH ROUND STUDENT
 name BESELAM GIZAW 
-Node.js & Express.js Practice Questions 
-A simple Node.js project that serves an `index.html` file using the built‑in `http` and `fs` modules.
-##Project Structure
-.
-├── code.js        # Node.js server script
-├── index.html     # HTML file served to clients
-
-Code
-http://localhost:3000/
+Node.js  Practice Questions 
+A simple Node.js project that serves an `index.html` file using the built‑in `http` and `fs` modules
 
 code.js
 javascript
